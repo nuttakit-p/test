@@ -1,0 +1,5 @@
+{
+  "title": "แบบทดสอบคุณลักษณะ software engineer ที่ดี",
+  "description": "กรุณเลือกคำตอบที่ถูกต้อง",
+  "question_of": "คำถามที่ {{current_number}} จาก {{end_number}}"
+}

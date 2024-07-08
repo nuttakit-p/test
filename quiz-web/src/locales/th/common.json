@@ -1,0 +1,28 @@
+{
+  "home": "หน้าหลัก",
+  "loading": "กำลังดำเนินการ...",
+  "menu": {
+    "home-page": "หน้าหลัก",
+    "quiz-page": "แบบทดสอบ",
+    "leaderboard-page": "ตารางอันดับ"
+  },
+  "footer": {
+    "name": "©2024 บริษัท กรุงเทพดุสิตเวชการ จำกัด"
+  },
+  "btn_confirm": "ตกลง",
+  "btn_cancel": "ยกเลิก",
+  "btn_next": "ต่อไป",
+  "btn_accept": "ยอมรับ",
+  "btn_decline": "ปฏิเสธ",
+  "btn_again": "เริ่มใหม่",
+  "success": "สำเร็จ",
+  "fail": "ไม่สำเร็จ",
+  "score": "คะแนน",
+  "leaderboard": "ตารางอันดับ",
+  "data_not_found": "ไม่พบข้อมูล",
+  "alert": {
+    "success": "สำเร็จ",
+    "fail": "ไม่สำเร็จ",
+    "no_data": "ไม่พบข้อมูล"
+  }
+}

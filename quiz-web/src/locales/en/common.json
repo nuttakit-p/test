@@ -1,0 +1,28 @@
+{
+  "home": "home",
+  "loading": "Loading...",
+  "menu": {
+    "home-page": "Home",
+    "quiz-page": "Quiz",
+    "leaderboard-page": "Leader Board"
+  },
+  "footer": {
+    "name": "©2024 Bangkok Dusit Medical Services (BDMS)"
+  },
+  "btn_confirm": "Ok",
+  "btn_cancel": "Cancel",
+  "btn_next": "Next",
+  "btn_accept": "Accept",
+  "btn_decline": "Decline",
+  "btn_again": "try again",
+  "success": "Success",
+  "fail": "Fail",
+  "score": "Score",
+  "leaderboard": "Leader Board",
+  "data_not_found": "Data not found",
+  "alert": {
+    "success": "Success",
+    "fail": "Fail",
+    "no_data": "no data"
+  }
+}

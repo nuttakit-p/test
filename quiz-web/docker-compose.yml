@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      target: development
+    volumes:
+      - ./src:/app/src
+      - ./public:/app/public
+    ports:
+      - '3000:3000'
+    environment:
+      - REACT_APP_API_URL=http://stubby4j:8882
+    command: npm run dev
+
+  stubby4j:
+    image: azagniotov/stubby4j:latest-jre8
+    volumes:
+      - ./mock/api:/home/stubby4j
+    ports:
+      - '8882:8882'
+    command: java -jar /usr/local/stubby4j/stubby4j-x.x.xx.jar -d /home/stubby4j/questions.yaml -s 8882 -l
+
+volumes:
+  node_modules:

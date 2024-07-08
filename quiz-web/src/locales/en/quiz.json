@@ -1,0 +1,5 @@
+{
+  "title": "Quiz on Characteristics of a Good Software Engineer.",
+  "description": "Please select the correct answer.",
+  "question_of": "Question {{current_number}} of {{end_number}}"
+}

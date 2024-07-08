@@ -1,0 +1,22 @@
+{
+  "success": {
+    "title": "Successful",
+    "description": "Transaction completed successfully."
+  },
+  "fail": {
+    "title": "Unsuccessful",
+    "description": "Please try again."
+  },
+  "link_expired": {
+    "title": "Sorry, The link has expired.",
+    "description": "This link expired after {{consent_expired_date}} days."
+  },
+  "link_fail": {
+    "title": "Sorry, The link cannot be access.",
+    "description": "This link cannot be accessed."
+  },
+  "error_404": {
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist."
+  }
+}

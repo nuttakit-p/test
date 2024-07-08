@@ -1,0 +1,14 @@
+node_modules
+dist
+*.lock
+apidoc/des
+yarn-error.log
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# .env.production
+# .env.dev
+# .env*.local
+.env
+.vscode
